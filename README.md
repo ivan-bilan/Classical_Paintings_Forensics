@@ -1,5 +1,5 @@
 # Painting Forensics
-Analyzing paintings to find out their year of creation. By using CNNs and a combined with a pre-trained VGG19 model we 
+Analyzing paintings to find out their year of creation. By using CNNs and combined with a pre-trained VGG19 model we 
 can find out in what year the painting was painted. In this research we are distributing a dataset of color paintings
 into multiple classes based on which art epoch they were painted in.
 
